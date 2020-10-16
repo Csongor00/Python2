@@ -1,0 +1,2 @@
+1. az elso program nem fog mukodni mert az elso sor vegen nincs kirakva a ' jel es a masodik sorban meg a felkialto jel a ' jel utan van
+2. a masodik sor mukodni fog mert minden jo helyre van kirakva
